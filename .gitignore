@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Extracted feature caches / predictions (user-generated, can be large)
+*.pt
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
